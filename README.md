@@ -10,6 +10,16 @@
 
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Architecture-FF9900?logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Linux-Systems-FCC624?logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Terraform-Infrastructure%20as%20Code-844FBA?logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/Python-Scripting-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?logo=jenkins&logoColor=white" alt="Jenkins"/>
+</p>
+
 ## 👋 About Me
 
 **My career didn't start behind a computer screen.**

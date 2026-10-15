@@ -78,7 +78,7 @@ I value clear documentation, honest assessment of technical results, collaborati
 ## 🤝 Connect
 
 - **GitHub:** [github.com/vestersly](https://github.com/vestersly)
-- **LinkedIn:** Add your exact public LinkedIn profile URL here.
+- **LinkedIn:** www.linkedin.com/in/awungjia-sylvester-b38281286.
 
 ---
 
